@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Brad Hackinen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Job Market PhD Candidate at the Vancouver School of Economics (University of British Columbia). Researching corporate lobbying and influence."
   location         :
-  employer         : "Vancouver School of Economics"
+  employer         : "Vancouver School\nof Economics"
   googlescholar    :
   email            :
   uri              :
