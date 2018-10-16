@@ -4,7 +4,6 @@ title: "Contact"
 excerpt: "Contact information"
 author_profile: true
 redirect_from:
-  - /contact/
   - /contact.html
 ---
 
