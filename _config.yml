@@ -81,9 +81,10 @@ analytics:
 author:
   name             : "Brad Hackinen"
   avatar           : "profile.png"
-  bio              : "Job Market PhD Candidate at the Vancouver School of Economics (University of British Columbia). Researching corporate lobbying and influence."
+  bio              : "PhD Candidate at the Vancouver School of Economics (University of British Columbia).
+                      Researching corporate lobbying and influence. On the job market in 2018."
   location         :
-  employer         : "Vancouver School\nof Economics"
+  employer         :
   googlescholar    :
   email            :
   uri              :
