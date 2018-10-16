@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I can be reached at bradhackinen@gmail.com
+I can be reached at <bradhackinen@gmail.com>
