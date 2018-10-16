@@ -15,7 +15,7 @@ url                      : https://bradhackinen.github.io # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bradhackinen/bradhackinen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Brad Hackinen"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at the Vancouver School of Economics (University of British Columbia).
+  bio              : "PhD Candidate at the [Vancouver School of Economics](https://economics.ubc.ca/) (University of British Columbia).
                       Researching corporate lobbying and influence. On the job market in 2018."
   location         :
   employer         :
   googlescholar    :
-  email            :
+  email            : # "bradhackinen@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -174,7 +174,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
