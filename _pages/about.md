@@ -10,7 +10,7 @@ redirect_from:
 
 __This page is under construction.__
 
-I'm a PhD job market Candidate in Economics at the [Vancouver School of Economics](https://economics.ubc.ca/). I study corporate influence and lobbying.
+I'm a PhD job market Candidate in Economics at the [Vancouver School of Economics](https://economics.ubc.ca/). My primary field is Political Economy, and I study corporate influence and lobbying.
 
 I work with messy data, and I have developed expertise in a set of skills that are commonly labelled "data science": web scraping, machine learning, and text analysis. I'm excited about sharing my knowledge (and [tools!](https://github.com/bradhackinen?tab=repositories)) with students and researchers.
 
