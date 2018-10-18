@@ -9,4 +9,4 @@ redirect_from:
 
 I can be reached at <bradhackinen@gmail.com>
 
-I will be at the CEEE and ASSA meeting for interviews.
+I will be at the CEEE and ASSA meetings for interviews.
