@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Job Market Paper
-### Hall of Mirrors: Corporate Philanthropyand Strategic Advocacy
+### [Hall of Mirrors: Corporate Philanthropyand Strategic Advocacy](http://bradhackinen.ca/files/bradhackinen_JMP.pdf)
 ___Marianne Bertrand, Matilde Bombardini, Raymond Fisman, Brad Hackinen, and Francesco Trebbi___
 
 Designing good economic policy requires good information. Non-profit organizations provide an important source of expertise that is, on the surface, unbiased by self-interest. Unfortunately, anecdotes suggest that information provided by non-profits can be swayed by donations from corporations. We examine corporate influence on non-profits in a setting where we can make a plausible claim of identifying a causal relationship between donations and advocacy for corporate interests.
