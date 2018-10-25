@@ -7,6 +7,9 @@ redirect_from:
 - /publications.html
 ---
 
+My research statement is available [here](https://bradhackinen.ca/files/BradHackinen_ResearchStatement.pdf)
+
+
 ## Job Market Paper ([Download](http://bradhackinen.ca/files/bradhackinen_JMP.pdf))
 ### Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy
 _Marianne Bertrand, Matilde Bombardini, Raymond Fisman, Brad Hackinen, and Francesco Trebbi_
