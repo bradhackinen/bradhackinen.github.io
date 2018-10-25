@@ -8,7 +8,7 @@ author_profile: true
 I have built a number of tools to support my research. All are functional, though documentation is in varying stages of completion. Feel free to contact me if you want more information.
 
 ## Nama
-Nama (NAme-MAtcher) is a powerful tool for matching names and clustering names. It integrates multiple types of fuzzy matching, including a novel neural network algorithm for quickly finding potential matches, and provides tools for reviewing, modifying, and iteratively improving matches. [View on GitHub](https://github.com/bradhackinen/nama)
+Nama (NAme-MAtcher) is a powerful tool for matching and clustering names in very large datasets. It integrates multiple types of fuzzy matching, including a novel neural network algorithm for quickly finding potential matches, and provides tools for reviewing, modifying, and iteratively improving matches. [View on GitHub](https://github.com/bradhackinen/nama)
 
 ## Subex
 Subex (SUbstring-EXtractor) is a tool for extracting parts of strings using a trainable recurrent neural network. It achieved 97% accuracy on the task of identifying organization names in comment titles and other metadata from regulations.gov (for my job market paper). [View on GitHub](https://github.com/bradhackinen/subex)
