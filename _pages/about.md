@@ -10,10 +10,14 @@ redirect_from:
 
 
 
-I'm a PhD job market Candidate in Economics at the [Vancouver School of Economics](https://economics.ubc.ca/). I’m an applied micro-economist working in the areas of political economy, environmental economics, and public economics.
+I am a PhD Candidate in Economics at the [Vancouver School of Economics](https://economics.ubc.ca/).
 
-My [job market paper](https://bradhackinen.ca/files/BradHackinen_JMP.pdf) reveals how corporations use charitable donations to influence what information non-profits provide to federal regulators in the US. I'm also working on using text analysis to measure how regulators change the design of regulations in response to public comments from interest groups.
+I am an applied micro-economist working in the areas of political economy, environmental economics, and public economics.
 
-I work with messy data, and I have developed expertise in a set of skills that are commonly labelled "data science": web scraping, machine learning, and text analysis. I'm excited about sharing my knowledge (and [tools](https://bradhackinen.ca/tools/)) with students and researchers.
+My job market paper is available [here](https://bradhackinen.ca/files/BradHackinen_JMP.pdf).
+
+The library of tools that I have developed for my job market paper is available [here](https://bradhackinen.ca/tools/). The link also includes data visualization and natural language processing tools that I am developing for a set of papers with my co-authors.
+
+My research interests range from applied micro-economic problems in the areas of regulation and anti-trust. I am motivated by applications in US environmental and financial regulation, but my research applies more broadly.
 
 I will be available for interviews at the 2018 CEEE and at the 2019 AEA/ASSA meetings.
