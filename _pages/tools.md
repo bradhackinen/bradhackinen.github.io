@@ -5,7 +5,7 @@ excerpt: "Tools"
 author_profile: true
 ---
 
-I have built a number of tools to support my research. All are functional, though documentation is in varying stages of completion. Feel free to [contact me](mailto:bradhackinen@gmail.com) if you want more information.
+I have built a number of tools to support my research. All are functional, though the documentation is in varying stages of completion. Feel free to [contact me](mailto:bradhackinen@gmail.com) if you want more information.
 
 Plots and visualizations that rely on these tools are available on my [regcomments project page](https://bradhackinen.ca/regcomments/).
 
