@@ -39,7 +39,9 @@ Working papers
 ===
 Marianne Bertrand, Matilde Bombardini, Brad Hackinen, Raymond Fisman, and Francesco Trebbi. (2018). _Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy_. Available here:  http://bradhackinen.ca/files/bradhackinen_JMP.pdf
 
-Marianne Bertrand, Matilde Bombardini, Brad Hackinen, and Francesco Trebbi (2018). _Lobbying the Dodd-Frank Act of 2010_.
+Research Papers in Progress
+===
+Marianne Bertrand, Matilde Bombardini, Brad Hackinen, and Francesco Trebbi. (2018). _Lobbying the Dodd-Frank Act of 2010_.
 
 Grants, Fellowships and Awards
 ===
