@@ -1,15 +1,10 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-<!-- {% include base_path %} -->
-
-My CV is available [here](https://bradhackinen.ca/files/BradHackinen_CV.pdf).
 
 [Download PDF](https://bradhackinen.ca/files/BradHackinen_CV.pdf)
 
@@ -53,3 +48,5 @@ University of Victoria:
 - University if Victoria Faculty Scholarship, 2010
 - Leonard Laudadio Medal In Environmental Economics, 2011
 - Jamie Cassels Undergraduate Research Award, 2011
+
+[Download PDF](https://bradhackinen.ca/files/BradHackinen_CV.pdf)
