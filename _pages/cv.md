@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-[Download PDF](https://bradhackinen.ca/files/BradHackinen_CV.pdf)
+[Download PDF](https://bradhackinen.ca/files/BradHackinen_CV.pdf) 
 
 Education
 ======
