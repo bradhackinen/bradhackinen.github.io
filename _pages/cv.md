@@ -9,12 +9,14 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
+[Download PDF](https://bradhackinen.ca/files/BradHackinen_CV.pdf)
+
 Education
 ======
 * Ph.D. in Economics, University of British Columbia, 2019 (expected)
 * B.Sc. in Economics (Honours), University of Victoria, 2012 (GPA )
 
-Work experience
+Professional Experience
 ======
 * 2014-Present: Research Assistant (various projects)
   * University of British Columbia
@@ -54,3 +56,5 @@ University of Victoria:
 - University if Victoria Faculty Scholarship, 2010
 - Leonard Laudadio Medal In Environmental Economics, 2011
 - Jamie Cassels Undergraduate Research Award, 2011
+
+[Download PDF](https://bradhackinen.ca/files/BradHackinen_CV.pdf)
