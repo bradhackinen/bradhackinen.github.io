@@ -18,6 +18,6 @@ My job market paper is available [here](https://bradhackinen.ca/files/BradHackin
 
 The library of tools that I have developed for my job market paper is available [here](https://bradhackinen.ca/tools/). The link also includes data visualization and natural language processing tools that I am developing for a set of papers with my co-authors.
 
-My research interests range from applied micro-economic problems in the areas of regulation and anti-trust. I am motivated by applications in US environmental and financial regulation, but my research applies more broadly.
+My research interests range from applied micro-economics to problems in the areas of regulation and anti-trust. I am motivated by applications in US environmental and financial regulation, but my research applies more broadly.
 
 I will be available for interviews at the 2018 CEEE and at the 2019 AEA/ASSA meetings.
