@@ -8,9 +8,54 @@ redirect_from:
 
 [Download PDF](https://bradhackinen.ca/files/BradHackinen_CV.pdf)
 
-## Education
+
+## Doctoral Studies
 * Ph.D. in Economics, University of British Columbia, 2019 (expected)
-* B.Sc. in Economics (Honours), University of Victoria, 2012 (GPA )
+* Dissertation: _"Lobbying and influence in U.S. federal regulations"_
+
+### Dissertation Committee and References
+__Francesco Trebbi__
+
+Faculty of Arts
+6000 Iona Drive
+Vancouver, BC,
+Canada,
+V6T 1L4,
+Iona Building 155
+
+604-822-9932
+
+ftrebbi@mail.ubc.ca
+
+__Matilde Bombardini__
+
+Faculty of Arts
+6000 Iona Drive
+Vancouver, BC,
+Canada,
+V6T 1L4,
+Iona Building 201E
+
+604-822-3866
+
+Matilde.Bombardini@ubc.ca
+
+__Kevin Milligan__
+
+Faculty of Arts
+6000 Iona Drive
+Vancouver, BC,
+Canada,
+V6T 1L4,
+Iona Building 211
+
+604-822-6747
+
+Kevin.Milligan@ubc.ca
+
+
+## Prior Education
+* B.Sc. in Economics (Honours), University of Victoria, 2012
 
 ## Professional Experience
 * 2014-Present: Research Assistant (various projects), _University of British Columbia_
