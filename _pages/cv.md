@@ -15,7 +15,7 @@ redirect_from:
 ## Professional Experience
 * 2014-Present: Research Assistant (various projects), _University of British Columbia_
   * Duties included: Collecting, cleaning, and organizing data, managing undergraduate RAs
-  * Supervisors: Henry Sui, Giovanni Gallipoli, Jesse Perla, Francesco Trebbi
+  * For: Henry Siu, Giovanni Gallipoli, Jesse Perla, Matilde Bombardini, Francesco Trebbi
 
 
 * Summer 2010: Assistant Producer, _Vivity Labs_
