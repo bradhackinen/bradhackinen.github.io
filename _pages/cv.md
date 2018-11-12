@@ -25,7 +25,7 @@ Iona Building 155
 
 604-822-9932
 
-ftrebbi@mail.ubc.ca
+<ftrebbi@mail.ubc.ca>
 
 __Matilde Bombardini__
 
@@ -38,7 +38,7 @@ Iona Building 201E
 
 604-822-3866
 
-Matilde.Bombardini@ubc.ca
+<Matilde.Bombardini@ubc.ca>
 
 __Kevin Milligan__
 
@@ -51,7 +51,7 @@ Iona Building 211
 
 604-822-6747
 
-Kevin.Milligan@ubc.ca
+<Kevin.Milligan@ubc.ca>
 
 
 ## Prior Education
