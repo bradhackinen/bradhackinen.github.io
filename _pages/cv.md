@@ -11,7 +11,7 @@ redirect_from:
 
 ## Doctoral Studies
 * Ph.D. in Economics, University of British Columbia, 2019 (expected)
-* Dissertation: _"Lobbying and influence in U.S. federal regulations"_
+* Dissertation: _"Lobbying and corporate influence in U.S. federal rulemaking"_
 
 ### Dissertation Committee and References
 __Francesco Trebbi__
