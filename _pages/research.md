@@ -29,6 +29,7 @@ _Abstract:_ This paper studies the process of regulatory rulemaking that followe
 
 ### Who lobbies and why? Evidence from _Clean Air Act_ regulations ([Download slides](https://bradhackinen.ca/files/BradHackinen_WhoLobbiesAndWhy.pdf))
 _(with Nouri Najjar)_
+
 This paper examines how the electricity sector reacted to the Clean Power Plan and several other major Environmental Protection Agency (EPA) regulations under the _U.S. Clean Air Act_. For these regulations, the EPA predicted the impacts of each rule with detailed plant-level modelling of the entire electricity sector. We link real plants to both their corporate owners and their simulated counterparts in the EPA’s models to produce firm-level data on the expected impacts of each regulation. This gives us an unusually precise measure of each rule’s heterogenous regulatory impacts. We explore who chooses to lobby and comment, and how firm strategies relate to the magnitude, sign, and uncertainty of the expected impacts. We contribute to the lobbying literature by providing further evidence of the large fixed costs to lobbying – whether a firm lobbied in the past is a much better predictor of their lobbying behavior than the impact of the current regulations.
 
 
