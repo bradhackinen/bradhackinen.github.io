@@ -55,7 +55,7 @@ Iona Building 211
 
 
 ## Prior Education
-* B.Sc. in Economics (Honours), University of Victoria, 2012
+* B.Sc. in Economics, with Distinction (Honours), University of Victoria, 2012
 
 ## Professional Experience
 * 2014-Present: Research Assistant (various projects), _University of British Columbia_
@@ -78,7 +78,13 @@ Iona Building 211
 Marianne Bertrand, Matilde Bombardini, Brad Hackinen, Raymond Fisman, and Francesco Trebbi. (2018). _Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy_. Available here:  http://bradhackinen.ca/files/bradhackinen_JMP.pdf
 
 ## Research Papers in Progress
-Marianne Bertrand, Matilde Bombardini, Brad Hackinen, and Francesco Trebbi. (2018). _Lobbying the Dodd-Frank Act of 2010_.
+Marianne Bertrand, Matilde Bombardini, Brad Hackinen, and Francesco Trebbi. _Lobbying the Dodd-Frank Act of 2010_.
+
+Brad Hackinen, and Nouri Najjar. _Who lobbies and why? Evidence from U.S. Clean Air Act regulations_.
+
+### Who lobbies and why? Evidence from _Clean Air Act_ regulations ([Download slides](https://bradhackinen.ca/files/BradHackinen_WhoLobbiesAndWhy.pdf))
+_(with Nouri Najjar)_
+
 
 ## Grants, Fellowships and Awards
 University of British Columbia:
