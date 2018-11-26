@@ -80,10 +80,7 @@ Marianne Bertrand, Matilde Bombardini, Brad Hackinen, Raymond Fisman, and France
 ## Research Papers in Progress
 Marianne Bertrand, Matilde Bombardini, Brad Hackinen, and Francesco Trebbi. _Lobbying the Dodd-Frank Act of 2010_.
 
-Brad Hackinen, and Nouri Najjar. _Who lobbies and why? Evidence from U.S. Clean Air Act regulations_.
-
-### Who lobbies and why? Evidence from _Clean Air Act_ regulations ([Download slides](https://bradhackinen.ca/files/BradHackinen_WhoLobbiesAndWhy.pdf))
-_(with Nouri Najjar)_
+Brad Hackinen, and Nouri Najjar. _Who lobbies and why? Evidence from U.S. Clean Air Act regulations_. ([Download slides](https://bradhackinen.ca/files/BradHackinen_WhoLobbiesAndWhy.pdf))
 
 
 ## Grants, Fellowships and Awards
