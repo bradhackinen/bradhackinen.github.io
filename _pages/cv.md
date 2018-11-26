@@ -75,7 +75,7 @@ Iona Building 211
 
 
 ##  Working papers
-Marianne Bertrand, Matilde Bombardini, Brad Hackinen, Raymond Fisman, and Francesco Trebbi. (2018). _Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy_. Available here:  http://bradhackinen.ca/files/bradhackinen_JMP.pdf
+Marianne Bertrand, Matilde Bombardini, Brad Hackinen, Raymond Fisman, and Francesco Trebbi. (2018). _Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy_. ([Download](http://bradhackinen.ca/files/bradhackinen_JMP.pdf))
 
 ## Research Papers in Progress
 Marianne Bertrand, Matilde Bombardini, Brad Hackinen, and Francesco Trebbi. _Lobbying the Dodd-Frank Act of 2010_.
