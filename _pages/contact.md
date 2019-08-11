@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 I can be reached at <bradhackinen@gmail.com>
-
-I will be available for interviews at the 2018 CEEE and at the 2019 AEA/ASSA meetings.
