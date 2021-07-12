@@ -7,36 +7,25 @@ redirect_from:
 - /publications.html
 ---
 
-My research statement is available [here](https://bradhackinen.ca/files/BradHackinen_ResearchStatement.pdf).
+### Research papers
+
+**[Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy](https://bradhackinen.ca/files/BradHackinen_CV_2021-07.pdf)**
+(With Marianne Bertrand, Matilde Bombardini, Raymond Fisman, and Francesco Trebbi)(Forthcoming at the Quarterly Journal of Economics)
+
+*Abstract:* Information is central to designing effective policy, and policymakers often rely on competing interests to separate useful from biased information. We show how this logic of virtuous competition can break down, using a new and comprehensive dataset on U.S. federal regulatory rule-making for 2003-2016. For-profit corporations and non-profit entities are active in the rule-making process and are arguably expected to provide independent viewpoints. Policymakers, however, may not be fully aware of the financial ties between some firms and non-profits – grants that are legal and tax-exempt, but hard to trace. We document three patterns which suggest that these grants may distort policy. First, we show that, shortly after a firm donates to a non-profit, that non-profit is more likely to comment on rules on which the firm has also commented. Second, when a firm comments on a rule, the comments by non-profits that recently received grants from the firm's foundation are systematically closer in content to the firm's own comments, relative to comments submitted by other non-profits. Third, the final rule's discussion by a regulator is more similar to the firm's comments on that rule when the firm's recent grantees also commented on it.
+
+**[Improving Context Modeling in Neural Topic Segmentation](https://arxiv.org/pdf/2010.03138.pdf)**
+(with Linzi Xing, Giuseppe Carenini, and Francesco Trebbi)
+Presented at AACL-IJCNLP 2020
 
 
-## Job Market Paper ([Download](http://bradhackinen.ca/files/BradHackinen_JMP.pdf))
-### Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy
-_(with Marianne Bertrand, Matilde Bombardini, Raymond Fisman, and Francesco Trebbi)_
+### In Progress
+**Measuring Special Interest Group Influence on Regulations and Administrative Rulemaking**
+(with Giuseppe Carenini, Francesco Trebbi, and Linzi Xing)
 
-_Abstract:_ Politicians and regulators rely on feedback from the public when setting policies. For-profit corporations and non-profit entities are active in this process and are arguably expected to provide independent viewpoints. Policymakers (and the public at large), however, may be unaware of the financial ties between some firms and non-profits – ties that are legal and tax-exempt, but difficult to trace. We identify these ties using IRS forms submitted by the charitable arms of large U.S. corporations, which list all grants awarded to non-profits. We document three patterns in a comprehensive sample of public commentary made by firms and non-profits within U.S. federal rulemaking between 2003 and 2015. First, we show that, shortly after a firm donates to a non-profit, the grantee is more likely to comment on rules for which the firm has also provided a comment. Second, when a firm comments on a rule, the comments by non-profits that recently received grants from the firm's foundation are systematically closer in content similarity to the firm's own comments than to those submitted by other non-profits commenting on that rule. Third, when a firm comments on a new rule, the discussion of the final rule is more similar to the firm's comments when the firm's recent grantees also comment on that rule. These patterns, taken together, suggest that corporations strategically deploy charitable grants to induce non-profit grantees to make comments that favor their benefactors, and that this translates into regulatory discussion that is closer to the firm's own comments.
+**Information and Obstruction in the Notice and Comment Process for U.S. Federal Rulemaking**
 
-[Download paper here](http://bradhackinen.ca/files/BradHackinen_JMP.pdf)
-
-
-## Work in Progress
-
-### Lobbying the _Dodd-Frank Act of 2010_
-_(with Marianne Bertrand, Matilde Bombardini, and Francesco Trebbi)_
-
-_Abstract:_ This paper studies the process of regulatory rulemaking that followed the passage of the Dodd-Frank Act of 2010. One of the largest regulatory interventions in the U.S. financial system since the the Great Depression, the Dodd-Frank Act saw an unprecedented involvement by large and small depository institutions, nondepository financial institutions and nonprofits vis-a-vis all main financial regulatory agencies. The statute, 848 pages long, included 398 rulemaking requirements directed to financial regulators, individually or jointly. In the first five years since enactment, finalized rules run around 19,000 pages. We follow each regulatory stream from initial proposal to its final version. Using detailed commentary and meeting information with regulators regarding each rulemaking stream, this paper investigates which banks exerted the largest influence in shaping the final rules and which elements of the law were most effectively neutered and modified, and how. Case studies for the Volcker Rule and Credit Risk Retention are also offered.
-
-
-### Who lobbies and why? Evidence from _U.S. Clean Air Act_ regulations ([Download slides](https://bradhackinen.ca/files/BradHackinen_WhoLobbiesAndWhy.pdf))
-_(with Nouri Najjar)_
-
-This paper examines how the electricity sector reacted to the Clean Power Plan and several other major Environmental Protection Agency (EPA) regulations under the _U.S. Clean Air Act_. Between 2004 and 2005, the EPA produced detailed plant-level models of the predicted impacts of six major regulations on the entire U.S. electricity sector. We link real plants to both their corporate owners and their simulated counterparts in the EPA’s models to produce firm-level data on the expected impacts of each regulation. This gives us an unusually precise measure of each rule’s heterogenous regulatory impacts. We explore who chooses to lobby and comment, and how firm strategies relate to the magnitude, sign, and uncertainty of the expected impacts. We contribute to the lobbying literature by providing further evidence of the large fixed costs to lobbying – whether a firm lobbied in the past is a much better predictor of their lobbying behavior than the impact of the current regulations.
-
-
-
-<!-- ### Estimating spatial models of policy preferences from text
-We consider the problem of estimating a spatial preferences model from -->
-
+**Organization Name Matching with Contrastive Learning**
 
 
 <!--

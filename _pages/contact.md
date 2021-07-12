@@ -7,4 +7,4 @@ redirect_from:
   - /contact.html
 ---
 
-I can be reached at <bradhackinen@gmail.com>
+I can be reached at <bhackinen@ivey.ca>
