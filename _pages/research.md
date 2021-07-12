@@ -9,7 +9,7 @@ redirect_from:
 
 ### Research papers
 
-**[Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy](https://bradhackinen.ca/files/BradHackinen_CV_2021-07.pdf)**\
+**[Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy](https://bradhackinen.ca/files/BBFHT05July2021.pdf)**\
 (With Marianne Bertrand, Matilde Bombardini, Raymond Fisman, and Francesco Trebbi)
 *Forthcoming at the Quarterly Journal of Economics*
 
