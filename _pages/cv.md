@@ -6,9 +6,9 @@ redirect_from:
   - /resume
 ---
 
-**CV**[[pdf](https://bradhackinen.ca/files/BradHackinen_CV_2021-07.pdf)]
+[[pdf](https://bradhackinen.ca/files/BradHackinen_CV_2021-07.pdf)]
 
-###Contact
+### Contact
 
 Office 3303 Richard Ivey Building
 1255 Western Road
