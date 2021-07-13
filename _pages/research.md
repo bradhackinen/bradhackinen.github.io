@@ -7,7 +7,7 @@ redirect_from:
 - /publications.html
 ---
 
-### Research papers
+## Research papers
 
 **[Hall of Mirrors: Corporate Philanthropy and Strategic Advocacy](https://bradhackinen.ca/files/BBFHT05July2021.pdf)**\
 (With Marianne Bertrand, Matilde Bombardini, Raymond Fisman, and Francesco Trebbi)
@@ -20,7 +20,7 @@ redirect_from:
 *Presented at AACL-IJCNLP 2020*
 
 
-### In Progress
+## In Progress
 **Measuring Special Interest Group Influence on Regulations and Administrative Rulemaking**\
 (with Giuseppe Carenini, Francesco Trebbi, and Linzi Xing)
 
