@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-[[pdf](https://bradhackinen.ca/files/BradHackinen_CV_2021-07.pdf)]
+[[pdf](https://bradhackinen.ca/files/BradHackinen_CV_2022-01.pdf)]
 
 ## Contact
 
