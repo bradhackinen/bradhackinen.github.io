@@ -10,8 +10,5 @@ I have built a number of software tools to support my research. All are function
 **[nama](https://github.com/bradhackinen/nama)**\
 Nama (NAme-MAtcher) is a powerful tool for matching organization names in very large datasets. It integrates multiple types of fuzzy matching, including a novel neural network algorithm for quickly finding potential matches, and provides tools for reviewing, modifying, and iteratively improving matches.
 
-**[vminhash](https://github.com/bradhackinen/vminhash)**\
-A small library for very efficiently comparing similarity, clustering, and identifying duplicates within of large sets of documents. The core MinHash algorithm is vectorized in numpy and includes CUDA support via cupy. Also includes a bias-corrected MLE estimator of cardinality (which is a significant improvement over other Python implementations).
-
 **[frdocs](https://github.com/bradhackinen/frdocs)**\
 An interface for collecting and parsing Federal Register documents.

@@ -19,12 +19,14 @@ redirect_from:
 (with Linzi Xing, Giuseppe Carenini, and Francesco Trebbi)
 *Presented at AACL-IJCNLP 2020*
 
+**[Tracing Influence at Scale: A Contrastive Learning Approach to Linking Public Comments and Regulator Responses.](https://arxiv.org/pdf/2311.14871.pdf)**\
+(with Linzi Xing, Giuseppe Carenini)
+*Presented at NMNLP 2023 - NLLP workshop*
+
 
 ## In Progress
-**Measuring Special Interest Group Influence on Regulations and Administrative Rulemaking**\
-(with Giuseppe Carenini, Francesco Trebbi, and Linzi Xing)
-
-**Information and Obstruction in the Notice and Comment Process for U.S. Federal Rulemaking**
+**10 New Facts About Regulation, Policy Change, and Public Comments**
+(with Giuseppe Carenini, Francesco Trebbi)
 
 **Organization Name Matching with Contrastive Learning**
 
